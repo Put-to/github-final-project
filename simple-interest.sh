@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Put-to / Tanishq Thakur
+   # Put-to
 
    # Input:
    # p, principal amount
